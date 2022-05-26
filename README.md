@@ -1,2 +1,2 @@
-# Voscreen-Clone-React-Native
-Clips based interactive english learning.
+# React-Native-Voscreen-Clone
+ Clips-based-interactive-english-learning
